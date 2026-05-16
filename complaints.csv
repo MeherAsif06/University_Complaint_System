@@ -1,0 +1,101 @@
+id,student_id,department_id,title,description,image_url,status,created_at
+1,96,7,Attendance marked incorrectly,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_1.jpg,in_progress,2024-02-26 01:49:26
+2,98,2,WiFi connectivity issues in lab,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_2.jpg,resolved,2024-04-08 20:55:20
+3,43,4,Assignment grades not updated on portal,This was reported verbally before but no action was taken.,,in_progress,2024-08-18 08:27:28
+4,71,4,Projector not working in classroom,Students are unable to complete their work due to this issue.,uploads/complaint_4.jpg,resolved,2024-03-31 01:09:03
+5,18,9,Library books not returned to shelves,Multiple students have reported this problem. Immediate attention is required.,uploads/complaint_5.jpg,resolved,2024-05-23 04:15:49
+6,64,8,Lecture room double-booked,The problem was first noticed last week and has not been addressed yet.,uploads/complaint_6.jpg,resolved,2024-05-21 21:03:30
+7,60,1,Slow internet in computer lab,Several attempts to resolve this informally have failed.,uploads/complaint_7.jpg,resolved,2024-08-23 13:25:51
+8,66,9,Printing facility out of paper,Students are unable to complete their work due to this issue.,,pending,2024-02-29 10:12:27
+9,86,9,WiFi connectivity issues in lab,This issue is impacting the daily routine of students and staff.,uploads/complaint_9.jpg,pending,2025-02-08 13:48:37
+10,79,3,WiFi connectivity issues in lab,This was reported verbally before but no action was taken.,,pending,2024-03-07 18:52:56
+11,98,4,Slow internet in computer lab,Multiple students have reported this problem. Immediate attention is required.,uploads/complaint_11.jpg,resolved,2024-02-14 20:50:17
+12,91,2,Lighting issues in study room,The matter is urgent as final exams are approaching.,,in_progress,2024-08-04 13:01:29
+13,38,6,Lab equipment malfunctioning,Several attempts to resolve this informally have failed.,uploads/complaint_13.jpg,in_progress,2024-09-04 00:21:03
+14,70,6,Course registration system error,Multiple students have reported this problem. Immediate attention is required.,uploads/complaint_14.jpg,pending,2025-03-27 06:57:43
+15,24,2,Noise disturbance near exam hall,The problem was first noticed last week and has not been addressed yet.,,in_progress,2024-10-12 01:59:46
+16,20,4,Attendance marked incorrectly,Several attempts to resolve this informally have failed.,uploads/complaint_16.jpg,pending,2024-09-05 23:19:41
+17,90,9,Library books not returned to shelves,This was reported verbally before but no action was taken.,uploads/complaint_17.jpg,pending,2024-04-28 07:22:04
+18,45,2,Broken chairs in lecture hall,This was reported verbally before but no action was taken.,,pending,2024-06-26 14:25:16
+19,55,4,Printing facility out of paper,Several attempts to resolve this informally have failed.,,in_progress,2024-02-23 10:57:36
+20,23,7,Parking area overcrowded,The issue has been persisting for several days and affecting many students.,uploads/complaint_20.jpg,pending,2024-08-05 11:12:00
+21,32,8,Noise disturbance near exam hall,The problem recurs frequently and a permanent solution is needed.,,in_progress,2024-05-09 18:34:23
+22,81,1,Attendance marked incorrectly,The matter is urgent as final exams are approaching.,,in_progress,2024-02-16 11:44:47
+23,51,6,WiFi connectivity issues in lab,This issue is impacting the daily routine of students and staff.,,pending,2024-04-03 20:12:43
+24,57,9,Lighting issues in study room,The matter is urgent as final exams are approaching.,uploads/complaint_24.jpg,resolved,2024-07-16 21:06:13
+25,32,3,Lighting issues in study room,The issue has been persisting for several days and affecting many students.,uploads/complaint_25.jpg,pending,2024-11-29 18:53:22
+26,97,4,Parking area overcrowded,This has been affecting academic activities and needs urgent resolution.,,resolved,2024-02-14 01:52:44
+27,72,4,Assignment grades not updated on portal,Students are unable to complete their work due to this issue.,uploads/complaint_27.jpg,in_progress,2024-07-09 18:41:14
+28,40,1,Printing facility out of paper,The problem was first noticed last week and has not been addressed yet.,,in_progress,2024-03-08 22:05:47
+29,47,6,Faculty not available during office hours,This was reported verbally before but no action was taken.,uploads/complaint_29.jpg,in_progress,2025-03-06 11:47:08
+30,54,1,Broken chairs in lecture hall,Several attempts to resolve this informally have failed.,uploads/complaint_30.jpg,pending,2024-08-08 04:39:06
+31,16,2,Missing study materials on LMS,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_31.jpg,in_progress,2024-12-18 22:58:17
+32,89,9,Broken chairs in lecture hall,The problem recurs frequently and a permanent solution is needed.,,resolved,2024-02-18 11:25:29
+33,67,1,Sports facility not accessible,This was reported verbally before but no action was taken.,uploads/complaint_33.jpg,resolved,2024-06-16 01:00:03
+34,58,7,Projector not working in classroom,This issue is impacting the daily routine of students and staff.,uploads/complaint_34.jpg,resolved,2024-04-20 19:11:03
+35,50,9,Canteen food quality issues,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_35.jpg,in_progress,2025-03-20 14:59:51
+36,28,4,Lighting issues in study room,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_36.jpg,resolved,2024-09-04 18:06:44
+37,63,9,Library books not returned to shelves,Several attempts to resolve this informally have failed.,,pending,2024-09-21 07:09:39
+38,71,8,Elevator out of service,The problem was first noticed last week and has not been addressed yet.,uploads/complaint_38.jpg,in_progress,2024-05-25 19:16:36
+39,96,2,Canteen food quality issues,This was reported verbally before but no action was taken.,uploads/complaint_39.jpg,resolved,2024-03-27 12:51:48
+40,42,5,Lab equipment malfunctioning,The problem was first noticed last week and has not been addressed yet.,,pending,2025-01-18 01:11:00
+41,90,2,Elevator out of service,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_41.jpg,resolved,2024-11-08 05:52:38
+42,75,7,Lab equipment malfunctioning,This has been affecting academic activities and needs urgent resolution.,,resolved,2024-04-06 18:55:52
+43,66,4,Water leakage in corridor,This was reported verbally before but no action was taken.,uploads/complaint_43.jpg,in_progress,2024-04-18 06:17:17
+44,70,3,Elevator out of service,This was reported verbally before but no action was taken.,uploads/complaint_44.jpg,resolved,2024-12-23 18:09:59
+45,90,9,Lighting issues in study room,This was reported verbally before but no action was taken.,,in_progress,2025-01-17 16:34:22
+46,69,5,Course registration system error,The problem was first noticed last week and has not been addressed yet.,,resolved,2025-02-22 21:43:58
+47,74,4,Parking area overcrowded,Students are unable to complete their work due to this issue.,,pending,2024-08-13 01:08:12
+48,54,6,Noise disturbance near exam hall,Multiple students have reported this problem. Immediate attention is required.,,pending,2024-05-12 16:29:47
+49,39,2,Lighting issues in study room,The problem recurs frequently and a permanent solution is needed.,,in_progress,2024-03-03 08:43:01
+50,38,7,Slow internet in computer lab,The matter is urgent as final exams are approaching.,,resolved,2024-11-05 10:48:58
+51,73,1,Attendance marked incorrectly,Several attempts to resolve this informally have failed.,uploads/complaint_51.jpg,resolved,2024-12-05 11:07:22
+52,80,9,Missing study materials on LMS,The problem was first noticed last week and has not been addressed yet.,,in_progress,2025-01-26 05:01:22
+53,15,7,Exam timetable clash,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_53.jpg,resolved,2024-04-23 03:09:16
+54,91,9,Library books not returned to shelves,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_54.jpg,in_progress,2024-03-20 04:53:38
+55,94,7,Air conditioning not functioning,Students are unable to complete their work due to this issue.,,pending,2024-09-25 06:17:45
+56,39,8,Exam timetable clash,This issue is impacting the daily routine of students and staff.,,resolved,2024-12-07 10:32:16
+57,44,2,Lecture room double-booked,The issue has been persisting for several days and affecting many students.,,resolved,2024-10-12 19:44:01
+58,40,2,Course registration system error,The issue has been persisting for several days and affecting many students.,uploads/complaint_58.jpg,resolved,2024-06-17 20:21:08
+59,14,10,Air conditioning not functioning,The problem was first noticed last week and has not been addressed yet.,uploads/complaint_59.jpg,pending,2025-03-28 01:09:17
+60,39,8,Security concern near hostel,Several attempts to resolve this informally have failed.,,resolved,2024-04-12 23:02:50
+61,32,5,Broken chairs in lecture hall,The matter is urgent as final exams are approaching.,,pending,2024-11-01 12:13:43
+62,62,4,Projector not working in classroom,The matter is urgent as final exams are approaching.,uploads/complaint_62.jpg,resolved,2024-04-03 03:34:40
+63,50,10,Broken chairs in lecture hall,The matter is urgent as final exams are approaching.,,resolved,2024-12-12 17:32:41
+64,96,6,Projector not working in classroom,This was reported verbally before but no action was taken.,,resolved,2024-12-06 06:27:44
+65,74,2,Lighting issues in study room,This issue is impacting the daily routine of students and staff.,uploads/complaint_65.jpg,resolved,2024-05-12 19:57:42
+66,67,3,Scholarship disbursement delayed,This was reported verbally before but no action was taken.,,resolved,2025-03-08 00:16:12
+67,73,8,Lighting issues in study room,The matter is urgent as final exams are approaching.,uploads/complaint_67.jpg,pending,2024-03-22 07:30:48
+68,47,8,Lab equipment malfunctioning,Students are unable to complete their work due to this issue.,uploads/complaint_68.jpg,in_progress,2024-10-02 06:53:15
+69,15,8,Exam timetable clash,This has been affecting academic activities and needs urgent resolution.,,in_progress,2024-08-02 16:02:16
+70,55,5,Missing study materials on LMS,Several attempts to resolve this informally have failed.,uploads/complaint_70.jpg,in_progress,2024-06-11 09:32:59
+71,22,4,Scholarship disbursement delayed,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_71.jpg,in_progress,2025-01-18 19:01:07
+72,94,8,Elevator out of service,The issue has been persisting for several days and affecting many students.,,pending,2024-07-21 23:32:13
+73,51,10,Attendance marked incorrectly,Students are unable to complete their work due to this issue.,,in_progress,2025-03-17 11:59:05
+74,54,6,Security concern near hostel,Students are unable to complete their work due to this issue.,,pending,2024-04-17 17:11:19
+75,36,6,Broken chairs in lecture hall,This was reported verbally before but no action was taken.,uploads/complaint_75.jpg,resolved,2024-06-11 18:34:57
+76,39,8,Parking area overcrowded,The matter is urgent as final exams are approaching.,uploads/complaint_76.jpg,resolved,2024-08-21 19:28:41
+77,24,4,Canteen food quality issues,The problem was first noticed last week and has not been addressed yet.,,in_progress,2025-03-04 20:59:59
+78,28,5,WiFi connectivity issues in lab,The issue has been persisting for several days and affecting many students.,uploads/complaint_78.jpg,in_progress,2024-04-22 02:01:13
+79,93,8,Broken chairs in lecture hall,The issue has been persisting for several days and affecting many students.,,in_progress,2024-12-22 02:56:00
+80,55,3,WiFi connectivity issues in lab,Several attempts to resolve this informally have failed.,,resolved,2024-03-05 18:05:23
+81,63,8,Projector not working in classroom,The matter is urgent as final exams are approaching.,,resolved,2024-05-09 21:14:40
+82,84,5,Projector not working in classroom,The problem was first noticed last week and has not been addressed yet.,uploads/complaint_82.jpg,pending,2024-07-08 07:06:47
+83,78,7,Elevator out of service,Students are unable to complete their work due to this issue.,uploads/complaint_83.jpg,pending,2024-12-13 01:58:03
+84,51,10,Missing study materials on LMS,The issue has been persisting for several days and affecting many students.,uploads/complaint_84.jpg,resolved,2024-06-24 09:26:50
+85,92,4,Parking area overcrowded,Multiple students have reported this problem. Immediate attention is required.,,pending,2024-03-13 07:18:38
+86,32,1,Lighting issues in study room,Students are unable to complete their work due to this issue.,,resolved,2024-02-09 08:27:03
+87,41,5,Security concern near hostel,Several attempts to resolve this informally have failed.,,resolved,2024-07-14 07:20:06
+88,45,10,Printing facility out of paper,The problem was first noticed last week and has not been addressed yet.,uploads/complaint_88.jpg,in_progress,2024-05-09 17:21:49
+89,46,3,Projector not working in classroom,The issue has been persisting for several days and affecting many students.,,pending,2024-08-26 04:05:28
+90,68,2,Elevator out of service,Several attempts to resolve this informally have failed.,uploads/complaint_90.jpg,resolved,2025-02-06 17:28:39
+91,81,8,Elevator out of service,Multiple students have reported this problem. Immediate attention is required.,uploads/complaint_91.jpg,in_progress,2024-09-21 08:30:35
+92,89,5,Library books not returned to shelves,Multiple students have reported this problem. Immediate attention is required.,uploads/complaint_92.jpg,pending,2024-01-31 02:43:23
+93,98,5,Fee payment portal error,The issue has been persisting for several days and affecting many students.,,resolved,2025-02-21 02:11:13
+94,95,8,Parking area overcrowded,This has been affecting academic activities and needs urgent resolution.,,resolved,2025-01-30 22:25:59
+95,23,8,Attendance marked incorrectly,The problem recurs frequently and a permanent solution is needed.,uploads/complaint_95.jpg,in_progress,2024-05-18 21:59:33
+96,54,7,Security concern near hostel,Students are unable to complete their work due to this issue.,uploads/complaint_96.jpg,pending,2025-03-17 06:32:38
+97,16,8,Projector not working in classroom,This issue is impacting the daily routine of students and staff.,,pending,2024-11-23 22:22:08
+98,77,1,Printing facility out of paper,This was reported verbally before but no action was taken.,,in_progress,2025-02-20 16:24:38
+99,58,10,Course registration system error,Students are unable to complete their work due to this issue.,uploads/complaint_99.jpg,resolved,2024-06-21 02:36:02
+100,46,9,Air conditioning not functioning,Several attempts to resolve this informally have failed.,uploads/complaint_100.jpg,in_progress,2024-04-18 07:32:46
